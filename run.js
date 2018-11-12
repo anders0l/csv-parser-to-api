@@ -18,7 +18,7 @@ const axiosParams = {
 
 csvToJson({
 	noheader: false,
-	delimiter: 'ћƒ',
+	delimiter: 'ћћ',
 	quote: '∆',
 	escape: 'њµ',
 	includeColumns: /^(id|email|tokens|created)$/
